@@ -20,7 +20,5 @@ dev = [
     "ipython"
 ]
 
-[
-tool.isort
-]
+[tool.isort]
 profile = "black"
